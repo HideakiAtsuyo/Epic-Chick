@@ -1,3 +1,3 @@
 # Epic-Chick
 
-Hideaki#9013 to add me<br>First release in august.
+Game Over#6669 to add me<br>First release in august.
