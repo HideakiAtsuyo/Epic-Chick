@@ -9,7 +9,7 @@ Using Discord.JS V`13.4.0-dev` from [[this commit]](https://github.com/discordjs
 - Allow SelfBot (discord.js Lib)
 - Fixed DMs (In the selfbot script directly)
 ## Informations
-- Fully Released at 20 Stars
+- Fully Released at 10 Stars
 - To ask/suggest a feature/command open an issue or DM me on Discord(I don't have issues notifications but will check weekly)
 ## GIFs
 <br>![](https://i.imgur.com/K59OzBv.gif)<br>![](https://i.imgur.com/MjAAkgP.gif)<br>![](https://i.imgur.com/1mjxxJ3.gif)
